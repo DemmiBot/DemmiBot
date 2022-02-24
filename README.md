@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DemmiBot
-- 👀 I’m interested in Sci-Fi, Horror and Comedy, especially when combined.
-- 🌱 I’m currently learning C, and looking to start learning JAVA or Python.
+- 👀 I’m interested in ROCK (from Nu Metal to Power Metal), Games, voice-acting and, of course, computers.
+- 🌱 I’m currently learning C and Java.
 - 💞️ I’m looking to collaborate on anything that can further my knowledge of co-working and programming logic.
-- 📫 No way to reach me other than here.
+- 📫 If you're here you probably know me from somewhere else, in wich case, hello again!
 
 <!---
 DemmiBot/DemmiBot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
